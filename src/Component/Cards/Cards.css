@@ -1,0 +1,30 @@
+h1,h2,h3,h4,h5,h6,p,a{
+    font-family: 'Montserrat', sans-serif;
+  }
+  .image {
+      width: 550px;
+      height: 100px;
+      margin-left: 90px;
+      margin-top: 20px;
+  }
+  button-size{
+      margin-left: 50px;
+      font-size: 30px;
+  }
+  
+  .card{
+      background-color: #f1f0f7bf;
+  }
+  .social{
+      font-size: 25px;
+      
+      
+  }
+  .social a{
+      margin-left: 10px;
+      margin-top: 20px;
+      color: rgb(36, 27, 172);
+  }
+  
+   
+   

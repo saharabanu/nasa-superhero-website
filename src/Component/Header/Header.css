@@ -1,0 +1,34 @@
+
+h1,h2,h3,h4,h5,h6,p,a{
+    font-family: 'Montserrat', sans-serif;
+}
+.header{
+    text-align: center;
+    margin-top: 20px;
+    padding: 10p;
+}
+.header h2{
+    font-weight: 700;
+}
+.logo{
+    height: 90px;
+    text-align: center;
+    margin-right: 20px;
+    
+}
+.header nav{
+    background-color: #0000006b;
+    line-height: 50px;
+}
+.header nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    padding: 5px;
+    font-size: 20px;
+}
+.header nav a:hover{
+    background-color: rgb(102, 67, 67);
+    transition: 2s;
+    border-radius: 10px;
+}
